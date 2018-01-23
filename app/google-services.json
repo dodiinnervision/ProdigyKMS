@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "855382793870",
+    "firebase_url": "https://prodigykms-b7b82.firebaseio.com",
+    "project_id": "prodigykms-b7b82",
+    "storage_bucket": "prodigykms-b7b82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855382793870:android:8a87ed15fc293710",
+        "android_client_info": {
+          "package_name": "app.dodi.com.prodigykms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855382793870-5e28i5do2fur1oevmn4pfr21h5umidjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPBiwrLM82Jo4nwl81ReF-J3JJg0G9ecw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
